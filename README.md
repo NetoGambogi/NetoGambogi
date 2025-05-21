@@ -6,8 +6,8 @@ Let me introduce myself, my name is Luis Antônio, I've been programming for abo
 
 <div style="display:flex;justify-content:center;">
   <a href="https://github.com/NetoGambogi" target="_blank">
-  <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cauaneb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cauaneb&layout=compact&langs_count=7&theme=github_dark"/>
+  <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NetoGambogi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NetoGambogi&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Some tools I use ⚒️
