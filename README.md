@@ -11,10 +11,10 @@ Let me introduce myself, my name is Luis Antônio, I've been programming for abo
 </div>
 
 ## Some tools I use ⚒️
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mongodb)](https://skillicons.dev)
 
 ## What I'm learning 👨🏻‍🏫
-[![My Skills](https://skillicons.dev/icons?i=ts,jest,mysql,postgres,nextjs,react,gcp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,laravel,mysql,postgres,nextjs,react,gcp,docker)](https://skillicons.dev)
 
 ## My social networks 🌐
 
