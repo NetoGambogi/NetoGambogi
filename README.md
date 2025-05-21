@@ -31,4 +31,4 @@ Let me introduce myself, my name is Luis Antônio, I've been programming for abo
 </a>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/NetoGambogi/NetoGambogi/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/NetoGambogi/NetoGambogi/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
