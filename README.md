@@ -26,9 +26,9 @@ Let me introduce myself, my name is Luis Antônio, I've been programming for abo
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </a>
 
-<a href="mailto:cauaneduardoborges@gmail.com" target="_blank">
+<a href="mailto:netogambogi@hotmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </a>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/cauaneb/cauaneb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/netogambogi/netogambogi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
