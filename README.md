@@ -15,7 +15,7 @@ Let me introduce myself, my name is Luis Antônio, I've been programming for abo
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql)](https://skillicons.dev)
 
 ## What I'm learning 👨🏻‍🏫
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,laravel,mysql,nextjs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,laravel,postgresql,react,)](https://skillicons.dev)
 
 ## My social networks 🌐
 
