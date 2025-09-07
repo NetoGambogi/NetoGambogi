@@ -1,8 +1,8 @@
-## About Me 🙋🏻‍♂️
+  ## Sobre mim 🙋🏻‍♂️
 
-Let me introduce myself, my name is Luis Antônio, I've been programming for about 6 months, I have an affinity for web development, but I'm always willing to learn new things.
+Olá, meu nome é Luis Antônio e eu programo há cerca de 9 meses. Tenho afinidade com desenvolvimento web, mas estou sempre disposto a aprender coisas novas.
 
-## My performance 💪
+## Minha performance 💪
 
 <div style="display:flex;justify-content:center;">
   <a href="https://github.com/NetoGambogi" target="_blank">
@@ -11,13 +11,13 @@ Let me introduce myself, my name is Luis Antônio, I've been programming for abo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetoGambogi&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Some tools I use ⚒️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,mysql)](https://skillicons.dev)
+## Ferramentas que uso ⚒️
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,)](https://skillicons.dev)
 
-## What I'm learning 👨🏻‍🏫
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,laravel,postgresql,react,)](https://skillicons.dev)
+## O que estou aprendendo 👨🏻‍🏫
+[![My Skills](https://skillicons.dev/icons?i=laravel,postgresql,react,)](https://skillicons.dev)
 
-## My social networks 🌐
+## Redes sociais 🌐
 
 <a href="https://www.linkedin.com/in/luis-antonio-gambogi" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
