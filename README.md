@@ -15,7 +15,7 @@ Olá, meu nome é Luis Antônio e eu programo há cerca de 9 meses. Tenho afinid
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,)](https://skillicons.dev)
 
 ## O que estou aprendendo 👨🏻‍🏫
-[![My Skills](https://skillicons.dev/icons?i=laravel,postgresql,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,postgresql,python,django)](https://skillicons.dev)
 
 ## Redes sociais 🌐
 
